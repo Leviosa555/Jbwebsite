@@ -59,6 +59,9 @@ body {
     height: 150px;
     border-radius: 50%;
     margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
